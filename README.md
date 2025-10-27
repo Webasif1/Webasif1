@@ -27,9 +27,9 @@
 ## 🚀 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| Portfolio Website | Personal responsive portfolio | [View](https://your-portfolio-link) |
+| Portfolio Website | Personal responsive portfolio | [View]([https://your-portfolio-link](https://webasif1.github.io/asif-portfolio/)) |
 | QuestMaker | AI-powered learning platform project | [View](https://github.com/Webasif1/ai-powered-cohort-progress) |
-| Riwaqal Quran | Quran teaching website improvement | [View](https://riwaqalquran.com) |
+| Lisanul Quran | Quran teaching website improvement | [View]([https://riwaqalquran.com](https://lisanulquranacademy.com/)) |
 | Crypto WordPress | Cryptocurrency info website | Private / Demo |
 
 > More projects can be found in my [GitHub repositories](https://github.com/Webasif1?tab=repositories).
