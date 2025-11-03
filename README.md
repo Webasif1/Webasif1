@@ -34,13 +34,6 @@
 
 > More projects can be found in my [GitHub repositories](https://github.com/Webasif1?tab=repositories).
 
----
-
-## 📊 GitHub Stats
-![WebAsif1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webasif1&show_icons=true&theme=radical)
-
----
-
 ## 🎯 Goals
 - Improve **JavaScript & DSA skills** and complete the **AI-powered Web cohort**.  
 - Build more **real-world projects** showcasing **WordPress and frontend development**.  
