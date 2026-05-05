@@ -9,7 +9,7 @@
 ---
 
 ## 💻 About Me
-- I'm a **Frontend Developer** with 3+ years of experience in **HTML5, CSS3, JavaScript, and WordPress**.  
+- I'm a **Fullstack Developer** experience in **HTML5, CSS3, JavaScript, React.js, Node.js, express.js and WordPress**.  
 - I create **responsive, user-friendly websites** and improve existing ones.  
 - I enjoy **learning new technologies** and applying them to real-world projects.  
 - Currently exploring **AI-powered web development** and **DSA** to level up my skills.  
