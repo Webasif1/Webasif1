@@ -42,7 +42,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced **JavaScript frameworks** (React / Next.js)  
+- DevOps 
 - **Data Structures & Algorithms** for competitive coding  
 - **AI integration in web projects**
 
