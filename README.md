@@ -20,7 +20,7 @@ focus:     MERN Stack · AI Integration · DevOps
 education: Sheryians 2.0 AI-Powered Cohort
 ```
 
-I build **production-grade web apps** that combine clean frontend craft with robust backends and AI capabilities. From responsive WordPress sites to multi-tenant MERN platforms with **RAG pipelines and sentiment analysis** — I ship things that work in the real world.
+I build **production-grade web apps** that combine clean frontend craft with robust backends and AI capabilities. From multi-tenant MERN platforms with **RAG pipelines and sentiment analysis** to custom **WordPress** builds optimized for performance — I ship things that work in the real world.
 
 Currently deep into **Data Structures & Algorithms** and **DevOps** to round out my engineering toolkit.
 
@@ -111,21 +111,6 @@ Day-by-day documentation of mastering fullstack development through the Sheryian
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Lisanul Quran Academy</h3>
-
-<div align="center">
-
-[![Live](https://img.shields.io/badge/visit_site-000?style=flat-square&logo=wordpress&logoColor=white)](https://lisanulquranacademy.com/)
-
-</div>
-
-<p><strong>Production WordPress Site</strong></p>
-
-Redesigned and optimized a Quran teaching platform — faster load times, mobile responsiveness, and improved UX with Elementor + custom performance tuning.
-
-</td>
-<td width="50%" valign="top">
-
 <h3 align="center">💼 Portfolio</h3>
 
 <div align="center">
@@ -137,6 +122,23 @@ Redesigned and optimized a Quran teaching platform — faster load times, mobile
 <p><strong>Personal Portfolio Website</strong></p>
 
 Responsive personal site with projects, skills, experience timeline, and client testimonials. Clean, modern UI built for performance.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 WordPress Dev</h3>
+
+<div align="center">
+
+![WordPress](https://img.shields.io/badge/2%2B_years-000?style=flat-square&logo=wordpress&logoColor=21759B)
+
+</div>
+
+<p><strong>Custom Themes · Performance · SEO</strong></p>
+
+Experienced in building and optimizing production WordPress sites — Elementor, Astra, Spectra Builder, Thrive Leads. Focus on page speed, mobile UX, and conversion-ready design.
+
+`Elementor` `Astra` `SEO` `Performance Optimization`
 
 </td>
 </tr>
